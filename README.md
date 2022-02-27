@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @danisot
-- 👀 I’m interested in Cybersecurity and Software Development
-- 💞️ I’m looking to collaborate on security tools projects
+- 👀 My interests are iOS Development and Cybersecurity
+- 🧠 I´m currently learning Swift
+- 💞️ I really enjoy solving CTFs from time to time
 
 <!---
 danisot/danisot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
