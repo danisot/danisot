@@ -17,7 +17,6 @@ func danisot() -> IOSDeveloper? {
 }
 
 ```
-![image](https://github-readme-streak-stats.herokuapp.com/?user=danisot)
 ![image](https://github-readme-stats.vercel.app/api?username=danisot)
 
 <!---
