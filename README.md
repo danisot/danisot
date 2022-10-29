@@ -2,18 +2,15 @@
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ```swift
-func danisot() -> IOSDeveloper? {
+func danisot() {
   guard coffee.isReady else { return nil }
   
   let name = "Daniel"
-  var age: Int? = nil //TODO: Remove this...
   var hobbies: [Hobby] = [.travel, .football, .cybersecurity, .videogames]
   
   if reader.stillHere {
     hobbies.append(.customKeyboards)
   }
-  
-  return IOSDeveloper(name, age, hobbies)
 }
 
 ```
