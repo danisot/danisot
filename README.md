@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ```swift
 func danisot() {
-  guard coffee.isReady else { return nil }
+  guard coffee.isReady else { return }
   
   let name = "Daniel"
   var hobbies: [Hobby] = [.travel, .football, .cybersecurity, .videogames]
